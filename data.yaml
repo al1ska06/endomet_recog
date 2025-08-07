@@ -1,0 +1,6 @@
+path: C:\Users\alice\Documents\endo\data
+train: train/images
+val: valid/images
+
+nc: 4
+names: ['1-white', '2-red', '3-brownblack', 'Adesions']
